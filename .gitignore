@@ -1,0 +1,11 @@
+﻿*.lnk
+~$*
+*.tmp
+Thumbs.db
+Desktop.ini
+.Rproj.user/
+.Rhistory
+.RData
+.venv/
+__pycache__/
+.ipynb_checkpoints/
