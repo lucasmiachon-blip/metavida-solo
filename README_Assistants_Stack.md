@@ -21,7 +21,7 @@ Daily flow
 2) Discovery e Perplexity Past 7 days + Feedly push 3 items to Zotero To-Read.
 3) Evidence... ChatPDF summary e takeaway to Notion/Evidence.
 4) Teaching e Copilot outline e Canva style e export PPTX/PDF.
-5) Coding e VS Code commit to GitHub.
+5) Coding e VS Code commit to GitHub
 6) Automate e Make runs Action/Evidence/Drive-drop e Notion.
 
 Make scenarios
@@ -31,5 +31,9 @@ C) Drive-drop Tasks: new file in Teaching Drop™ Notion/Tasks with link.
 
 Security
 - 2FA everywhere. Use GitHub PAT (repo scope).
+
+Pendentes
+- Gennially
+- Readwise
 - No PHI to third-party AIs.
 - rclone: test with ---dry-run first.
