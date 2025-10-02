@@ -15,6 +15,7 @@ Roles
 - Make / rclone: Gmail/Drive/Notion glue; bulk copy.
 - Orange Data Mining: node gode ML.
 - Notion: Tasks, Projects, Evidence.
+- NootbookLM
 
 Daily flow
 1) Gmail triage Gemini summary  Labels Action/Evidence.
