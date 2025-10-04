@@ -9,7 +9,7 @@ Roles
 - ChatPDF Pro: ask one PDF.
 - Isabel Pro: differential support; record rationale.
 - Zotero + BBTO: capture, tag, cite; citekeys locked; File Sync As needed.
-- Research Rabbit / Feedly / scite: explore, track, verify.
+- Research Rabbit / Feedly: explore, track, verify.
 - Canva Pro / Miro Pro: style decks; map ideas.
 - VS Code / GitHubPro: coding + version control.
 - Make / rclone: Gmail/Drive/Notion glue; bulk copy.
